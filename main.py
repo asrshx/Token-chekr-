@@ -79,7 +79,7 @@ def index():
                 max-width: 800px;
                 margin: 20px auto;
                 padding: 20px;
-                background: #fff;
+                background: linear-gradient(to right, #FF00FF, #BA55D3, #9370DB);
                 border-radius: 10px;
                 box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
             }}
@@ -96,7 +96,7 @@ def index():
                 border-radius: 5px;
             }}
             button {{
-                background-color: #4CAF50;
+                background: linear-gradient(to right, #FF00FF, #BA55D3, #9370DB);
                 color: #fff;
                 cursor: pointer;
             }}
